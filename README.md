@@ -27,6 +27,7 @@ Tienda de barrio que se aplica las metodologías de historias de Usuario
     * Manejo de sesiones y roles en la base de datos
     * Script de llenado de los productos a la base de datos
 * Diseño de la página web FrontEnd
+    * Desarrollo del manejo de registro y sesión de los clientes
 
 
 Mockups - UI Kit
