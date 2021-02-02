@@ -1,7 +1,7 @@
-# store-fis
+# Store FIS
 Tienda de barrio que se aplica las metodologías de historias de Usuario
 
-#Integrantes
+# Integrantes
 * David Steven Santos 
 * Edwin Hernandez Cabrera
 
