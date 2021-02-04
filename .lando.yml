@@ -1,0 +1,6 @@
+name: soter-fiis
+recipe: laravel
+config:
+  via: nginx
+  database: mysql
+  webroot: ./public
