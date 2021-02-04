@@ -56,6 +56,9 @@ Tienda de barrio que se aplica las metodologías de historias de Usuario
 * Modelado de usuario
 * CRUD para usuarios
 
+### Modelo de base de datos 
+![Diagrama DB](Diagramarelacional.png)
+
 
 Mockups - UI Kit
 https://www.figma.com/file/7Qutnn9fJebmLk1as3S9oM/Store-UD-app-Ui-kit?node-id=0%3A1
