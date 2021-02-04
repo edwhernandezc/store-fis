@@ -48,11 +48,11 @@ Tienda de barrio que se aplica las metodologías de historias de Usuario
 
 # Tareas del primer ciclo
 * Definición de arquitectura
-   ** Frameworks a utilizar 
-   ** Modelos a implementar
+  - Frameworks a utilizar 
+  - Modelos a implementar
 * Configuración de ambiente
-   ** Definición de versiones a utilizar (Ej: version de framework, motor de base de datos, etc)
-   ** Configuración de ambiente local
+  - Definición de versiones a utilizar (Ej: version de framework, motor de base de datos, etc)
+  - Configuración de ambiente local
 * Modelado de usuario
 * CRUD para usuarios
 
