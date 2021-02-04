@@ -47,11 +47,14 @@ Tienda de barrio que se aplica las metodologías de historias de Usuario
 
 
 # Tareas del primer ciclo
-* Estructuración de la base de datos
-    * Manejo de sesiones y roles en la base de datos
-    * Script de llenado de los productos a la base de datos
-* Diseño de la página web FrontEnd
-    * Desarrollo del manejo de registro y sesión de los clientes
+* Definición de arquitectura
+  - Frameworks a utilizar 
+  - Modelos a implementar
+* Configuración de ambiente
+  - Definición de versiones a utilizar (Ej: version de framework, motor de base de datos, etc)
+  - Configuración de ambiente local
+* Modelado de usuario
+* CRUD para usuarios
 
 
 Mockups - UI Kit
